@@ -1,0 +1,18 @@
+C:\Temp\Bank_System v2\Source\DAL\bin\Debug\ClassLibrary2.dll
+C:\Temp\Bank_System v2\Source\DAL\bin\Debug\ClassLibrary2.pdb
+C:\Temp\Bank_System v2\Source\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Temp\Bank_System v2\Source\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Temp\Bank_System v2\Source\DAL\obj\Debug\ClassLibrary2.dll
+C:\Temp\Bank_System v2\Source\DAL\obj\Debug\ClassLibrary2.pdb
+C:\Users\kolo1\Desktop\Bank_System v5\Source\DAL\bin\Debug\ClassLibrary2.dll
+C:\Users\kolo1\Desktop\Bank_System v5\Source\DAL\bin\Debug\ClassLibrary2.pdb
+C:\Users\kolo1\Desktop\Bank_System v5\Source\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\kolo1\Desktop\Bank_System v5\Source\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\kolo1\Desktop\Bank_System v5\Source\DAL\obj\Debug\ClassLibrary2.dll
+C:\Users\kolo1\Desktop\Bank_System v5\Source\DAL\obj\Debug\ClassLibrary2.pdb
+C:\Users\kolys\Downloads\Telegram Desktop\лаба егор\Bank_System v5\Source\DAL\bin\Debug\ClassLibrary2.dll
+C:\Users\kolys\Downloads\Telegram Desktop\лаба егор\Bank_System v5\Source\DAL\bin\Debug\ClassLibrary2.pdb
+C:\Users\kolys\Downloads\Telegram Desktop\лаба егор\Bank_System v5\Source\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\kolys\Downloads\Telegram Desktop\лаба егор\Bank_System v5\Source\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\kolys\Downloads\Telegram Desktop\лаба егор\Bank_System v5\Source\DAL\obj\Debug\ClassLibrary2.dll
+C:\Users\kolys\Downloads\Telegram Desktop\лаба егор\Bank_System v5\Source\DAL\obj\Debug\ClassLibrary2.pdb

@@ -1,0 +1,123 @@
+C:\TempBank_System\Bank_System\DomainModel\bin\Debug\ClassLibrary1.dll
+C:\TempBank_System\Bank_System\DomainModel\bin\Debug\ClassLibrary1.pdb
+C:\TempBank_System\Bank_System\DomainModel\obj\Debug\DomainModel.csproj.AssemblyReference.cache
+C:\TempBank_System\Bank_System\DomainModel\obj\Debug\DomainModel.csproj.CoreCompileInputs.cache
+C:\TempBank_System\Bank_System\DomainModel\obj\Debug\ClassLibrary1.dll
+C:\TempBank_System\Bank_System\DomainModel\obj\Debug\ClassLibrary1.pdb
+C:\Users\SOLDIER\Desktop\Bank_System\DomainModel\bin\Debug\ClassLibrary1.dll
+C:\Users\SOLDIER\Desktop\Bank_System\DomainModel\bin\Debug\ClassLibrary1.pdb
+C:\Users\SOLDIER\Desktop\Bank_System\DomainModel\obj\Debug\DomainModel.csproj.AssemblyReference.cache
+C:\Users\SOLDIER\Desktop\Bank_System\DomainModel\obj\Debug\DomainModel.csproj.CoreCompileInputs.cache
+C:\Users\SOLDIER\Desktop\Bank_System\DomainModel\obj\Debug\ClassLibrary1.dll
+C:\Users\SOLDIER\Desktop\Bank_System\DomainModel\obj\Debug\ClassLibrary1.pdb
+C:\Users\SOLDIER\source\repos\OOP\Lab1\Src\Bank_System\DomainModel\obj\Debug\DomainModel.csproj.AssemblyReference.cache
+C:\Users\SOLDIER\source\repos\OOP\Lab1\Src\Bank_System\DomainModel\obj\Debug\DomainModel.csproj.CoreCompileInputs.cache
+C:\Users\SOLDIER\source\repos\OOP\Lab1\Src\Bank_System\DomainModel\obj\Debug\ClassLibrary1.dll
+C:\Users\SOLDIER\source\repos\OOP\Lab1\Src\Bank_System\DomainModel\obj\Debug\ClassLibrary1.pdb
+C:\Temp\Bank_System v2\DomainModel\obj\Debug\DomainModel.csproj.AssemblyReference.cache
+C:\Temp\Bank_System v2\DomainModel\obj\Debug\DomainModel.csproj.CoreCompileInputs.cache
+C:\Temp\Bank_System v2\DomainModel\obj\Debug\ClassLibrary1.dll
+C:\Temp\Bank_System v2\DomainModel\obj\Debug\ClassLibrary1.pdb
+C:\Temp\Bank_System v2\DomainModel\bin\Debug\ClassLibrary1.dll
+C:\Temp\Bank_System v2\DomainModel\bin\Debug\ClassLibrary1.pdb
+C:\Temp\Bank_System v2\Source\DomainModel\bin\Debug\ClassLibrary1.dll
+C:\Temp\Bank_System v2\Source\DomainModel\bin\Debug\ClassLibrary1.pdb
+C:\Temp\Bank_System v2\Source\DomainModel\obj\Debug\DomainModel.csproj.AssemblyReference.cache
+C:\Temp\Bank_System v2\Source\DomainModel\obj\Debug\DomainModel.csproj.CoreCompileInputs.cache
+C:\Temp\Bank_System v2\Source\DomainModel\obj\Debug\ClassLibrary1.dll
+C:\Temp\Bank_System v2\Source\DomainModel\obj\Debug\ClassLibrary1.pdb
+C:\Users\SOLDIER\Desktop\Bank_System v2\Bank_System v2\Source\DomainModel\bin\Debug\ClassLibrary1.dll
+C:\Users\SOLDIER\Desktop\Bank_System v2\Bank_System v2\Source\DomainModel\bin\Debug\ClassLibrary1.pdb
+C:\Users\SOLDIER\Desktop\Bank_System v2\Bank_System v2\Source\DomainModel\obj\Debug\DomainModel.csproj.AssemblyReference.cache
+C:\Users\SOLDIER\Desktop\Bank_System v2\Bank_System v2\Source\DomainModel\obj\Debug\DomainModel.csproj.CoreCompileInputs.cache
+C:\Users\SOLDIER\Desktop\Bank_System v2\Bank_System v2\Source\DomainModel\obj\Debug\ClassLibrary1.dll
+C:\Users\SOLDIER\Desktop\Bank_System v2\Bank_System v2\Source\DomainModel\obj\Debug\ClassLibrary1.pdb
+C:\Users\SOLDIER\Desktop\Bank_System v3\Source\DomainModel\bin\Debug\ClassLibrary1.dll
+C:\Users\SOLDIER\Desktop\Bank_System v3\Source\DomainModel\bin\Debug\ClassLibrary1.pdb
+C:\Users\SOLDIER\Desktop\Bank_System v3\Source\DomainModel\obj\Debug\DomainModel.csproj.AssemblyReference.cache
+C:\Users\SOLDIER\Desktop\Bank_System v3\Source\DomainModel\obj\Debug\DomainModel.csproj.CoreCompileInputs.cache
+C:\Users\SOLDIER\Desktop\Bank_System v3\Source\DomainModel\obj\Debug\ClassLibrary1.dll
+C:\Users\SOLDIER\Desktop\Bank_System v3\Source\DomainModel\obj\Debug\ClassLibrary1.pdb
+C:\Temp\Bank_System v4\Source\DomainModel\bin\Debug\ClassLibrary1.dll
+C:\Temp\Bank_System v4\Source\DomainModel\bin\Debug\ClassLibrary1.pdb
+C:\Temp\Bank_System v4\Source\DomainModel\obj\Debug\DomainModel.csproj.AssemblyReference.cache
+C:\Temp\Bank_System v4\Source\DomainModel\obj\Debug\DomainModel.csproj.CoreCompileInputs.cache
+C:\Temp\Bank_System v4\Source\DomainModel\obj\Debug\ClassLibrary1.dll
+C:\Temp\Bank_System v4\Source\DomainModel\obj\Debug\ClassLibrary1.pdb
+C:\Users\kolo1\Desktop\Bank_System v5\Source\DomainModel\bin\Debug\ClassLibrary1.dll.config
+C:\Users\kolo1\Desktop\Bank_System v5\Source\DomainModel\bin\Debug\ClassLibrary1.dll
+C:\Users\kolo1\Desktop\Bank_System v5\Source\DomainModel\bin\Debug\ClassLibrary1.pdb
+C:\Users\kolo1\Desktop\Bank_System v5\Source\DomainModel\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kolo1\Desktop\Bank_System v5\Source\DomainModel\bin\Debug\System.Buffers.dll
+C:\Users\kolo1\Desktop\Bank_System v5\Source\DomainModel\bin\Debug\System.Memory.dll
+C:\Users\kolo1\Desktop\Bank_System v5\Source\DomainModel\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kolo1\Desktop\Bank_System v5\Source\DomainModel\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kolo1\Desktop\Bank_System v5\Source\DomainModel\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\kolo1\Desktop\Bank_System v5\Source\DomainModel\bin\Debug\System.Text.Json.dll
+C:\Users\kolo1\Desktop\Bank_System v5\Source\DomainModel\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\kolo1\Desktop\Bank_System v5\Source\DomainModel\bin\Debug\System.ValueTuple.dll
+C:\Users\kolo1\Desktop\Bank_System v5\Source\DomainModel\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\kolo1\Desktop\Bank_System v5\Source\DomainModel\bin\Debug\System.Buffers.xml
+C:\Users\kolo1\Desktop\Bank_System v5\Source\DomainModel\bin\Debug\System.Memory.xml
+C:\Users\kolo1\Desktop\Bank_System v5\Source\DomainModel\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kolo1\Desktop\Bank_System v5\Source\DomainModel\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kolo1\Desktop\Bank_System v5\Source\DomainModel\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\kolo1\Desktop\Bank_System v5\Source\DomainModel\bin\Debug\System.Text.Json.xml
+C:\Users\kolo1\Desktop\Bank_System v5\Source\DomainModel\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\kolo1\Desktop\Bank_System v5\Source\DomainModel\bin\Debug\System.ValueTuple.xml
+C:\Users\kolo1\Desktop\Bank_System v5\Source\DomainModel\obj\Debug\DomainModel.csproj.AssemblyReference.cache
+C:\Users\kolo1\Desktop\Bank_System v5\Source\DomainModel\obj\Debug\DomainModel.csproj.CoreCompileInputs.cache
+C:\Users\kolo1\Desktop\Bank_System v5\Source\DomainModel\obj\Debug\DomainModel.csproj.CopyComplete
+C:\Users\kolo1\Desktop\Bank_System v5\Source\DomainModel\obj\Debug\ClassLibrary1.dll
+C:\Users\kolo1\Desktop\Bank_System v5\Source\DomainModel\obj\Debug\ClassLibrary1.pdb
+C:\Users\kolys\Downloads\Telegram Desktop\лаба егор\Bank_System v5\Source\DomainModel\bin\Debug\ClassLibrary1.dll.config
+C:\Users\kolys\Downloads\Telegram Desktop\лаба егор\Bank_System v5\Source\DomainModel\bin\Debug\ClassLibrary1.dll
+C:\Users\kolys\Downloads\Telegram Desktop\лаба егор\Bank_System v5\Source\DomainModel\bin\Debug\ClassLibrary1.pdb
+C:\Users\kolys\Downloads\Telegram Desktop\лаба егор\Bank_System v5\Source\DomainModel\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kolys\Downloads\Telegram Desktop\лаба егор\Bank_System v5\Source\DomainModel\bin\Debug\System.Buffers.dll
+C:\Users\kolys\Downloads\Telegram Desktop\лаба егор\Bank_System v5\Source\DomainModel\bin\Debug\System.Memory.dll
+C:\Users\kolys\Downloads\Telegram Desktop\лаба егор\Bank_System v5\Source\DomainModel\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kolys\Downloads\Telegram Desktop\лаба егор\Bank_System v5\Source\DomainModel\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kolys\Downloads\Telegram Desktop\лаба егор\Bank_System v5\Source\DomainModel\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\kolys\Downloads\Telegram Desktop\лаба егор\Bank_System v5\Source\DomainModel\bin\Debug\System.Text.Json.dll
+C:\Users\kolys\Downloads\Telegram Desktop\лаба егор\Bank_System v5\Source\DomainModel\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\kolys\Downloads\Telegram Desktop\лаба егор\Bank_System v5\Source\DomainModel\bin\Debug\System.ValueTuple.dll
+C:\Users\kolys\Downloads\Telegram Desktop\лаба егор\Bank_System v5\Source\DomainModel\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\kolys\Downloads\Telegram Desktop\лаба егор\Bank_System v5\Source\DomainModel\bin\Debug\System.Buffers.xml
+C:\Users\kolys\Downloads\Telegram Desktop\лаба егор\Bank_System v5\Source\DomainModel\bin\Debug\System.Memory.xml
+C:\Users\kolys\Downloads\Telegram Desktop\лаба егор\Bank_System v5\Source\DomainModel\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kolys\Downloads\Telegram Desktop\лаба егор\Bank_System v5\Source\DomainModel\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kolys\Downloads\Telegram Desktop\лаба егор\Bank_System v5\Source\DomainModel\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\kolys\Downloads\Telegram Desktop\лаба егор\Bank_System v5\Source\DomainModel\bin\Debug\System.Text.Json.xml
+C:\Users\kolys\Downloads\Telegram Desktop\лаба егор\Bank_System v5\Source\DomainModel\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\kolys\Downloads\Telegram Desktop\лаба егор\Bank_System v5\Source\DomainModel\bin\Debug\System.ValueTuple.xml
+C:\Users\kolys\Downloads\Telegram Desktop\лаба егор\Bank_System v5\Source\DomainModel\obj\Debug\DomainModel.csproj.AssemblyReference.cache
+C:\Users\kolys\Downloads\Telegram Desktop\лаба егор\Bank_System v5\Source\DomainModel\obj\Debug\DomainModel.csproj.CoreCompileInputs.cache
+C:\Users\kolys\Downloads\Telegram Desktop\лаба егор\Bank_System v5\Source\DomainModel\obj\Debug\DomainModel.csproj.CopyComplete
+C:\Users\kolys\Downloads\Telegram Desktop\лаба егор\Bank_System v5\Source\DomainModel\obj\Debug\ClassLibrary1.dll
+C:\Users\kolys\Downloads\Telegram Desktop\лаба егор\Bank_System v5\Source\DomainModel\obj\Debug\ClassLibrary1.pdb
+E:\ООП\Bank_System v5\Source\DomainModel\bin\Debug\ClassLibrary1.dll.config
+E:\ООП\Bank_System v5\Source\DomainModel\bin\Debug\ClassLibrary1.dll
+E:\ООП\Bank_System v5\Source\DomainModel\bin\Debug\ClassLibrary1.pdb
+E:\ООП\Bank_System v5\Source\DomainModel\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ООП\Bank_System v5\Source\DomainModel\bin\Debug\System.Buffers.dll
+E:\ООП\Bank_System v5\Source\DomainModel\bin\Debug\System.Memory.dll
+E:\ООП\Bank_System v5\Source\DomainModel\bin\Debug\System.Numerics.Vectors.dll
+E:\ООП\Bank_System v5\Source\DomainModel\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\ООП\Bank_System v5\Source\DomainModel\bin\Debug\System.Text.Encodings.Web.dll
+E:\ООП\Bank_System v5\Source\DomainModel\bin\Debug\System.Text.Json.dll
+E:\ООП\Bank_System v5\Source\DomainModel\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\ООП\Bank_System v5\Source\DomainModel\bin\Debug\System.ValueTuple.dll
+E:\ООП\Bank_System v5\Source\DomainModel\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\ООП\Bank_System v5\Source\DomainModel\bin\Debug\System.Buffers.xml
+E:\ООП\Bank_System v5\Source\DomainModel\bin\Debug\System.Memory.xml
+E:\ООП\Bank_System v5\Source\DomainModel\bin\Debug\System.Numerics.Vectors.xml
+E:\ООП\Bank_System v5\Source\DomainModel\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\ООП\Bank_System v5\Source\DomainModel\bin\Debug\System.Text.Encodings.Web.xml
+E:\ООП\Bank_System v5\Source\DomainModel\bin\Debug\System.Text.Json.xml
+E:\ООП\Bank_System v5\Source\DomainModel\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\ООП\Bank_System v5\Source\DomainModel\bin\Debug\System.ValueTuple.xml
+E:\ООП\Bank_System v5\Source\DomainModel\obj\Debug\DomainModel.csproj.AssemblyReference.cache
+E:\ООП\Bank_System v5\Source\DomainModel\obj\Debug\DomainModel.csproj.CoreCompileInputs.cache
+E:\ООП\Bank_System v5\Source\DomainModel\obj\Debug\ClassLibrary1.dll
+E:\ООП\Bank_System v5\Source\DomainModel\obj\Debug\ClassLibrary1.pdb
